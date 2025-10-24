@@ -1,12 +1,6 @@
 <h1 align="center">👋 Hello, I am Ruslan Mykytyn</h1>
 <h3 align="center">Frontend Developer with experience in React and Next.js</h3>
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1mj28tMAIVXXzA8mtFwtYbjdLJo1I99as/view?usp=sharing">📄 CV</a> •
-  <a href="https://www.linkedin.com/in/ruslan-mykytyn-073422350/">💼 LinkedIn</a> •
-  <a href="https://t.me/makario17">📱 Telegram</a>
-</p>
-
 ---
 
 ### 🛠️ Tech Stack
